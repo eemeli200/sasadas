@@ -236,13 +236,6 @@ local UniversalScripts = {
 		Colour = Color3.fromRGB(120, 170, 160),
 	},
 
-local UniversalScripts = {
-	InfiniteYield = {
-		Name = "sanderX Normal",
-		Author = "Sander Dev",
-		Loadstring = "'https://raw.githubusercontent.com/kigredns/SanderXV4.2.2/refs/heads/main/New.lua'))()'",
-		Colour = Color3.fromRGB(57, 57, 57),
-	},
 }
 
 local DetectionScripts = {
